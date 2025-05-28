@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Tracker App
 
 A full-stack web application for managing your reading list, built with Flask and React. Build for People Recruitment Test. Integration with backend only works on page Library section Browse Library.
@@ -296,3 +297,6 @@ Good luck, and have fun! 🚀
 
 
 
+=======
+# CNT-book-app
+>>>>>>> 9716c0f116f3c9101b63eb96739478f765ce6317
