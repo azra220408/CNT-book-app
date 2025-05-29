@@ -16,7 +16,7 @@ Saya memilih peran sebagai pengembang frontend karena saya memiliki minat dan pe
 
 ### 🚀 Langkah Menjalankan
 
-bash
+```bash
 # Clone repo (jika belum)
 git clone https://github.com/azra220408/Book-app-.git
 cd Book-app-/frontend
@@ -27,7 +27,7 @@ npm install
 # Jalankan project
 npm run dev
 `
-
+```
 
 ## ✨ Fitur
 
@@ -63,13 +63,3 @@ bash
 git checkout -b frontend-azra
 git push origin frontend-azra
 
-
-Lalu saya membuat Pull Request ke branch main di GitHub repository ini.
-
-## 📝 Notes
-
-* Semua halaman bersifat dummy UI (tidak terkoneksi backend), sesuai instruksi soal.
-* Desain UI dibuat modular dan clean menggunakan shadcn/ui.
-* Struktur file disusun rapi agar mudah dikembangkan lebih lanjut (scalable).
-
-```
